@@ -1,6 +1,6 @@
 # Sistem za upravljanje semaforom
 
-Rad sadrži postavku i rješenje problema regulacije saobraćaja na raskrsnici između saobraćajnica Zmaja od Bosne i Hamdije Ćemerlića. Zadatak je rješen korištenjem TM241-\\CE24T PLC-a, te XBTGT7340 (HMIST6700) HMI-a. Programski kod napisan je u SoMAchine Central programskom paketu, korištenem SFC načina programiranja PLC-a. Rad sadrži objašnjenja i ilustracije svih komponenti sistema, sheme povezivanja, raspored komponenti u električnom ormaru, te uputstva za upotrebu. Razvijen je intuitivni korisnički interfejs koji omogućava lahko podešavanje i rukovanjem konačnim proizvodom. Uz rad je također napravljen video klip koji prikazuje rad sistema.
+Rad sadrži postavku i rješenje problema regulacije saobraćaja na raskrsnici između saobraćajnica Zmaja od Bosne i Hamdije Ćemerlića. Zadatak je rješen korištenjem TM241CE24T PLC-a, te XBTGT7340 (HMIST6700) HMI-a. Programski kod napisan je u SoMAchine Central programskom paketu, korištenem SFC načina programiranja PLC-a. Rad sadrži objašnjenja i ilustracije svih komponenti sistema, sheme povezivanja, raspored komponenti u električnom ormaru, te uputstva za upotrebu. Razvijen je intuitivni korisnički interfejs koji omogućava lahko podešavanje i rukovanjem konačnim proizvodom. Uz rad je također napravljen video klip koji prikazuje rad sistema.
 
 # Traffic light control system
 
